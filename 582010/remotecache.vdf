@@ -1,0 +1,27 @@
+"582010"
+{
+	"slot00"
+	{
+		"root"		"0"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"1534931683"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"1"
+		"persiststate"		"2"
+		"platformstosync2"		"-1"
+	}
+	"SAVEDATA1000"
+	{
+		"root"		"0"
+		"size"		"9438432"
+		"localtime"		"1534934428"
+		"time"		"1534934428"
+		"remotetime"		"1534934255"
+		"sha"		"7aef06aad782177b97c45bc8719ec22aaf6f9387"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

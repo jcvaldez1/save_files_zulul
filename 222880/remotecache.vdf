@@ -1,0 +1,39 @@
+"222880"
+{
+	"cfg/config.cfg"
+	{
+		"root"		"0"
+		"size"		"11352"
+		"localtime"		"1466510805"
+		"time"		"1466514463"
+		"remotetime"		"1466514463"
+		"sha"		"3b61baebdf9cd2518b4ceb6c70397cf66be52c40"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"materials/vgui/logos/spray.vmt"
+	{
+		"root"		"0"
+		"size"		"133"
+		"localtime"		"1464609625"
+		"time"		"1464613283"
+		"remotetime"		"1464613283"
+		"sha"		"896f1cf301416de2ad685aeea81028bbc7088974"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"materials/vgui/logos/spray.vtf"
+	{
+		"root"		"0"
+		"size"		"22064"
+		"localtime"		"1464609625"
+		"time"		"1464613283"
+		"remotetime"		"1464613283"
+		"sha"		"c5a4952eedf9a8b4469a5a461f3ab211785e3176"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

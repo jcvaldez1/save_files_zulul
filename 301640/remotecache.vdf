@@ -1,0 +1,63 @@
+"301640"
+{
+	"gamecomp.cld"
+	{
+		"root"		"0"
+		"size"		"32"
+		"localtime"		"1482254229"
+		"time"		"1482254228"
+		"remotetime"		"1482254228"
+		"sha"		"94ed89210dfeb7617f1512250abab82d0354bdeb"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"generalgamesettings.cld"
+	{
+		"root"		"0"
+		"size"		"1072"
+		"localtime"		"1533377258"
+		"time"		"1533377257"
+		"remotetime"		"1533315428"
+		"sha"		"31ca8d73915e87525582a9755763a9d26ba1cf94"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"localstats.cld"
+	{
+		"root"		"0"
+		"size"		"712"
+		"localtime"		"1533377258"
+		"time"		"1533377257"
+		"remotetime"		"1533315428"
+		"sha"		"121713c969e496fa328ae2cd8e758f2aff5a5bee"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"playerprofile.cld"
+	{
+		"root"		"0"
+		"size"		"8"
+		"localtime"		"1482140985"
+		"time"		"1482140985"
+		"remotetime"		"1482140985"
+		"sha"		"ca3fd204681217729b50a64dee68c00104050f67"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Zombie Army Trilogy/PC_ProfileSaves/76561193972938770/checkpoint4.cld"
+	{
+		"root"		"0"
+		"size"		"3145736"
+		"localtime"		"1533377057"
+		"time"		"1533377057"
+		"remotetime"		"1533315400"
+		"sha"		"8cef78ab20ccc381e7f2d762e0a5336740f60901"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

@@ -1,0 +1,27 @@
+"56400"
+{
+	"My Games/Dawn of War II - Retribution/Playback/temp.rec"
+	{
+		"root"		"2"
+		"size"		"16098"
+		"localtime"		"1512746017"
+		"time"		"1512746014"
+		"remotetime"		"1512746014"
+		"sha"		"dd0a51a28f7edbe2dfe4d84d174d572c7d1aea20"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"campaign_Tyrafgts_0.sav"
+	{
+		"root"		"0"
+		"size"		"13447"
+		"localtime"		"1512748751"
+		"time"		"1512748748"
+		"remotetime"		"1512748748"
+		"sha"		"a341dfa029bbac85e31553aa465fe61f8f47757f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

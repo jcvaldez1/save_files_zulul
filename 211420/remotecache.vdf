@@ -1,0 +1,39 @@
+"211420"
+{
+	"NBGI/DarkSouls/DRAKS0005.sl2"
+	{
+		"root"		"2"
+		"size"		"4326432"
+		"localtime"		"1500579159"
+		"time"		"1500571976"
+		"remotetime"		"1500571976"
+		"sha"		"e920a710a44d5bbcc56c46212f05f3d7dd6be10e"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"RankingBoardDetails/BOUNTY.DAT"
+	{
+		"root"		"0"
+		"size"		"864"
+		"localtime"		"1466496014"
+		"time"		"1466488831"
+		"remotetime"		"1466488831"
+		"sha"		"2f962c5b71b914149cec4e48b75502a7d64ac714"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"RankingBoardDetails/IZARIS.DAT"
+	{
+		"root"		"0"
+		"size"		"864"
+		"localtime"		"1500328986"
+		"time"		"1500321803"
+		"remotetime"		"1500321803"
+		"sha"		"e5b75bd750057266b2fd8c965ed41f2ac99b1d9f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

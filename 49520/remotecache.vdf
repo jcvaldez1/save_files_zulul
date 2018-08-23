@@ -1,0 +1,75 @@
+"49520"
+{
+	"My games/Borderlands 2/WillowGame/SaveData/76561198267906066/profile.bin"
+	{
+		"root"		"2"
+		"size"		"413"
+		"localtime"		"1484213143"
+		"time"		"1484213143"
+		"remotetime"		"1484213143"
+		"sha"		"0a349223b19bdba2d018cab6d74a1d6720e6353c"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My games/Borderlands 2/WillowGame/SaveData/76561198267906066/Save0001.sav"
+	{
+		"root"		"2"
+		"size"		"9768"
+		"localtime"		"1478002544"
+		"time"		"1478002543"
+		"remotetime"		"1478002543"
+		"sha"		"7e0fcb1f9d6e53252983098d888f896a767c96d2"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My games/Borderlands 2/WillowGame/SaveData/76561198267906066/Save0001.sav.bak"
+	{
+		"root"		"2"
+		"size"		"9768"
+		"localtime"		"1478002798"
+		"time"		"1478002797"
+		"remotetime"		"1478002797"
+		"sha"		"46ec4b23b46022cb0da82ef888a0789077b4c2bc"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My games/Borderlands 2/WillowGame/SaveData/76561198267906066/Save0002.sav"
+	{
+		"root"		"2"
+		"size"		"9237"
+		"localtime"		"1478005565"
+		"time"		"1478005565"
+		"remotetime"		"1478005565"
+		"sha"		"fb4333a519b1547759bff0c80c55ae2908b5e869"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My games/Borderlands 2/WillowGame/SaveData/76561198267906066/Save0002.sav.bak"
+	{
+		"root"		"2"
+		"size"		"9237"
+		"localtime"		"1484212590"
+		"time"		"1484212589"
+		"remotetime"		"1484212589"
+		"sha"		"2a47e9f5cae00d48be58fc709534bb35226dedf0"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My games/Borderlands 2/WillowGame/SaveData/76561198267906066/Save0003.sav"
+	{
+		"root"		"2"
+		"size"		"6265"
+		"localtime"		"1484213144"
+		"time"		"1484213143"
+		"remotetime"		"1484213143"
+		"sha"		"24dda4c53f13c6a7871b32cd27a494f4f2584d69"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

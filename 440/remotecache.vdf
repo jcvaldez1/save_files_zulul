@@ -1,0 +1,27 @@
+"440"
+{
+	"cfg/config.cfg"
+	{
+		"root"		"0"
+		"size"		"3900"
+		"localtime"		"1520158250"
+		"time"		"1520187050"
+		"remotetime"		"1520187050"
+		"sha"		"97ebfd174777faac0e4c37a93d12033289dcf62b"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"item_clientacks.txt"
+	{
+		"root"		"0"
+		"size"		"23"
+		"localtime"		"1520158242"
+		"time"		"1520187042"
+		"remotetime"		"1520187042"
+		"sha"		"6ff2f679b8f1feb178de1b7631fb5e19db3862ee"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

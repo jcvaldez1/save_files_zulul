@@ -1,0 +1,82 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"steam"
+			{
+				"DesktopShortcutCheck"		"1"
+				"StartMenuShortcutCheck"		"1"
+				"SSAVersion"		"3"
+				"SteamDefaultDialog"		"#app_store"
+				"apps"
+				{
+					"222880"
+					{
+						"cloudenabled"		"1"
+					}
+				}
+				"SurveyDate"		"2018-01-21"
+				"SurveyDateVersion"		"-4301093358703866680"
+				"cloudenabled"		"0"
+			}
+		}
+	}
+	"Web"
+	{
+		"WebFav0_URL"		"https://www.google.com/"
+		"WebFav0_Name"		"Google"
+		"WebFav1_URL"		"http://www.youtube.com/"
+		"WebFav1_Name"		"YouTube"
+		"WebFav2_URL"		"http://www.twitter.com/"
+		"WebFav2_Name"		"Twitter"
+		"WebFav3_URL"		"http://www.facebook.com/"
+		"WebFav3_Name"		"Facebook"
+		"WebFav4_URL"		"http://www.reddit.com/"
+		"WebFav4_Name"		"Reddit"
+	}
+	"controller_config"
+	{
+		"222480"
+		{
+			"usetime"		"1137.23828125"
+		}
+		"374320"
+		{
+			"usetime"		"1757.96630859375"
+		}
+		"211400"
+		{
+			"usetime"		"3075.44384765625"
+		}
+		"211420"
+		{
+			"usetime"		"35689.3515625"
+		}
+		"443510"
+		{
+			"usetime"		"0"
+		}
+		"413090"
+		{
+			"usetime"		"0"
+		}
+		"730"
+		{
+			"usetime"		"845.921875"
+		}
+		"247660"
+		{
+			"usetime"		"689.10791015625"
+		}
+		"582010"
+		{
+			"usetime"		"149506.71875"
+		}
+		"271590"
+		{
+			"usetime"		"0"
+		}
+	}
+}
