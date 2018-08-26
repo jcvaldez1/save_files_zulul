@@ -941,6 +941,36 @@
 		"0"
 		{
 			"type"		"1"
+			"filename"		"582010/screenshots/20180827041751_1.jpg"
+			"thumbnail"		"582010/screenshots/thumbnails/20180827041751_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"582010"
+			"creation"		"1535314671"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"1"
+		{
+			"type"		"1"
+			"filename"		"582010/screenshots/20180827040030_1.jpg"
+			"thumbnail"		"582010/screenshots/thumbnails/20180827040030_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"582010"
+			"creation"		"1535313630"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"2"
+		{
+			"type"		"1"
 			"filename"		"582010/screenshots/20180821015344_1.jpg"
 			"thumbnail"		"582010/screenshots/thumbnails/20180821015344_1.jpg"
 			"vrfilename"		""
@@ -953,7 +983,7 @@
 			"Permissions"		"8"
 			"hscreenshot"		"2475178968648326498"
 		}
-		"1"
+		"3"
 		{
 			"type"		"1"
 			"filename"		"582010/screenshots/20180821015336_1.jpg"
@@ -968,7 +998,7 @@
 			"Permissions"		"8"
 			"hscreenshot"		"2475178968648325730"
 		}
-		"2"
+		"4"
 		{
 			"type"		"1"
 			"filename"		"582010/screenshots/20180821000023_1.jpg"
@@ -983,7 +1013,7 @@
 			"Permissions"		"8"
 			"hscreenshot"		"2475178968647422794"
 		}
-		"3"
+		"5"
 		{
 			"type"		"1"
 			"filename"		"582010/screenshots/20180818020917_1.jpg"
@@ -998,7 +1028,7 @@
 			"Permissions"		"8"
 			"hscreenshot"		"954087817128630849"
 		}
-		"4"
+		"6"
 		{
 			"type"		"1"
 			"filename"		"582010/screenshots/20180818012647_1.jpg"
@@ -1013,7 +1043,7 @@
 			"Permissions"		"8"
 			"hscreenshot"		"954087817128630351"
 		}
-		"5"
+		"7"
 		{
 			"type"		"1"
 			"filename"		"582010/screenshots/20180816232036_1.jpg"
@@ -1028,7 +1058,7 @@
 			"Permissions"		"8"
 			"hscreenshot"		"954087817123391917"
 		}
-		"6"
+		"8"
 		{
 			"type"		"1"
 			"filename"		"582010/screenshots/20180816231915_1.jpg"
@@ -1043,7 +1073,7 @@
 			"Permissions"		"8"
 			"hscreenshot"		"954087817123390888"
 		}
-		"7"
+		"9"
 		{
 			"type"		"1"
 			"filename"		"582010/screenshots/20180815230120_1.jpg"
@@ -1058,7 +1088,7 @@
 			"Permissions"		"8"
 			"hscreenshot"		"954087817118460920"
 		}
-		"8"
+		"10"
 		{
 			"type"		"1"
 			"filename"		"582010/screenshots/20180813071338_1.jpg"
@@ -1073,7 +1103,7 @@
 			"Permissions"		"8"
 			"hscreenshot"		"963094863866373719"
 		}
-		"9"
+		"11"
 		{
 			"type"		"1"
 			"filename"		"582010/screenshots/20180812100012_1.jpg"
@@ -1088,7 +1118,7 @@
 			"Permissions"		"8"
 			"hscreenshot"		"963094714357803633"
 		}
-		"10"
+		"12"
 		{
 			"type"		"1"
 			"filename"		"582010/screenshots/20180810044642_1.jpg"
