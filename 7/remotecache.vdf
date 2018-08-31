@@ -15,12 +15,12 @@
 	"sharedconfig.vdf"
 	{
 		"root"		"0"
-		"size"		"1242"
-		"localtime"		"1535657659"
-		"time"		"1535657646"
+		"size"		"1240"
+		"localtime"		"1535732263"
+		"time"		"1535732265"
 		"remotetime"		"1535657646"
-		"sha"		"341f3746a5b94a6f87a26da29eb62df03997d5cc"
-		"syncstate"		"1"
+		"sha"		"cacae6b97b67d44cedfa31ddce18a54960e1a597"
+		"syncstate"		"3"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
 	}
