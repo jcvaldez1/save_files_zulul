@@ -1368,6 +1368,54 @@
 		"persiststate"		"0"
 		"platformstosync2"		"0"
 	}
+	"582010/screenshots/20180831025350_1.jpg"
+	{
+		"root"		"0"
+		"size"		"612030"
+		"localtime"		"1535655231"
+		"time"		"1535655219"
+		"remotetime"		"0"
+		"sha"		"b83d3fb4e947fcd9d38f99ef5ca1a23cb29d90fa"
+		"syncstate"		"3"
+		"persiststate"		"1"
+		"platformstosync2"		"0"
+	}
+	"582010/screenshots/thumbnails/20180831025350_1.jpg"
+	{
+		"root"		"0"
+		"size"		"19016"
+		"localtime"		"1535655231"
+		"time"		"1535655219"
+		"remotetime"		"0"
+		"sha"		"f2de091cb222496130248c1f4e34ee828553a1c8"
+		"syncstate"		"3"
+		"persiststate"		"1"
+		"platformstosync2"		"0"
+	}
+	"582010/screenshots/20180831025657_1.jpg"
+	{
+		"root"		"0"
+		"size"		"485513"
+		"localtime"		"1535655417"
+		"time"		"1535655404"
+		"remotetime"		"0"
+		"sha"		"11152c4ee94aa6b79540b05e99c0ada0af4c1d02"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"582010/screenshots/thumbnails/20180831025657_1.jpg"
+	{
+		"root"		"0"
+		"size"		"17371"
+		"localtime"		"1535655417"
+		"time"		"1535655404"
+		"remotetime"		"0"
+		"sha"		"66d9837d714068ecc29b8e037987a847bc5a5e41"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
 	"211420/screenshots/20161215055526_1.jpg"
 	{
 		"root"		"0"
