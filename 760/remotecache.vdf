@@ -1440,6 +1440,30 @@
 		"persiststate"		"1"
 		"platformstosync2"		"0"
 	}
+	"582010/screenshots/20180902024728_1.jpg"
+	{
+		"root"		"0"
+		"size"		"425044"
+		"localtime"		"1535827648"
+		"time"		"1535827648"
+		"remotetime"		"1535827648"
+		"sha"		"074087b3f521004a7612e64e99c440de77e3b8b4"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"0"
+	}
+	"582010/screenshots/thumbnails/20180902024728_1.jpg"
+	{
+		"root"		"0"
+		"size"		"14223"
+		"localtime"		"1535827648"
+		"time"		"1535827648"
+		"remotetime"		"1535827648"
+		"sha"		"0e1933668ce460106c1e280f29d486d76a1cf2d7"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"0"
+	}
 	"211420/screenshots/20161215055526_1.jpg"
 	{
 		"root"		"0"
