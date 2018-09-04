@@ -5592,4 +5592,28 @@
 		"persiststate"		"0"
 		"platformstosync2"		"0"
 	}
+	"582010/screenshots/20180905005950_1.jpg"
+	{
+		"root"		"0"
+		"size"		"371500"
+		"localtime"		"1536080391"
+		"time"		"1536080392"
+		"remotetime"		"1536080392"
+		"sha"		"3d53444fde2904506d20ab92b6eaa86bbbfd5f76"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"0"
+	}
+	"582010/screenshots/thumbnails/20180905005950_1.jpg"
+	{
+		"root"		"0"
+		"size"		"14004"
+		"localtime"		"1536080391"
+		"time"		"1536080392"
+		"remotetime"		"1536080392"
+		"sha"		"53a362ac263d1cfeed90858aa26bf16f13ee44b3"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"0"
+	}
 }
