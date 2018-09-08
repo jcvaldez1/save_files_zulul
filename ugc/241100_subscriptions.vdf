@@ -1,7 +1,7 @@
 "subscribedfiles"
 {
 	"appid"		"241100"
-	"time_last_updated"		"1534109323"
+	"time_last_updated"		"1536184149"
 	"0"
 	{
 		"publishedfileid"		"835566725"
@@ -76,5 +76,15 @@
 	{
 		"publishedfileid"		"759217323"
 		"time_subscribed"		"1534145620"
+	}
+	"15"
+	{
+		"publishedfileid"		"1504623258"
+		"time_subscribed"		"1536213053"
+	}
+	"16"
+	{
+		"publishedfileid"		"1504722328"
+		"time_subscribed"		"1536229754"
 	}
 }
